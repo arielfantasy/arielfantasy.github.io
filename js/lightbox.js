@@ -18,8 +18,8 @@
       this.resizeDuration              = 700;
       this.positionFromTop             = 50;
       this.showImageNumberLabel        = false;
-      this.alwaysShowNavOnTouchDevices = false;
-      this.wrapAround                  = false;
+      this.alwaysShowNavOnTouchDevices = true;
+      this.wrapAround                  = true;
     }
     
     // Change to localize to non-english language
